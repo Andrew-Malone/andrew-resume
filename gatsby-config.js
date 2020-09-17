@@ -2,9 +2,9 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     siteUrl: `https://gatsby-starter-clean-resume.netlify.com/`,
-    name: `Luke Skywalker`,
+    name: `Andrew Malone`,
     role: `Software Developer`,
-    email: `luke@thelightside.com`,
+    email: `drewandmalone@gmail.com`,
     socialMedia: [
       {
         name: "github",
@@ -16,7 +16,7 @@ module.exports = {
       { name: "instagram", link: "https://instagram.com" },
     ],
     about: `
-      <p>The son of Jedi Knight Anakin Skywalker and Senator Padmé Amidala,
+      <p>The son of Arabian Knight Duffus Skywalker and Senator Padmé Amidala,
       Luke Skywalker was born along with his twin sister Leia in 19 BBY.
       As a result of Amidala's death and Anakin's fall to the dark side of the Force,
       the Skywalker children were separated and sent into hiding,
@@ -26,7 +26,7 @@ module.exports = {
       whose first apprentice was Luke's own father.
       During the Battle of Yavin in 0 BBY, Skywalker saved the Alliance from annihilation by destroying the Empire's planet-killing superweapon,
       the Death Star. He continued his training in the years that followed,
-      determined to become a Jedi Knight like his father before him,
+      determined to become a Arabian Knight like his father before him,
       and found a new mentor in Grand Master Yoda. After his master's death,
       Skywalker participated in the Battle of Endor in 4 ABY,
       during which he confronted the Sith Lord Darth Vader,
