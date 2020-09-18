@@ -1,31 +1,22 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    siteUrl: `https://gatsby-starter-clean-resume.netlify.com/`,
+    siteUrl: `https://condescending-wing-37a49e.netlify.app`,
     name: `Andrew Malone`,
-    role: `Software Developer`,
+    role: `Computer Programmer`,
+    cell: `092-614-5203`,
     email: `drewandmalone@gmail.com`,
     socialMedia: [
       {
         name: "github",
-        link: "https://github.com/masoudkarimif/gatsby-starter-clean-resume",
+        link: "https://github.com/Andrew-Malone/andrew-resume",
       },
       { name: "linkedin", link: "https://linkedin.com" },
       { name: "facebook", link: "https://facebook.com" },
-      { name: "twitter", link: "https://twitter.com" },
       { name: "instagram", link: "https://instagram.com" },
     ],
     about: `
-      <p>The son of Arabian Knight Duffus Skywalker and Senator Padmé Amidala,
-      Luke Skywalker was born along with his twin sister Leia in 19 BBY.
-      As a result of Amidala's death and Anakin's fall to the dark side of the Force,
-      the Skywalker children were separated and sent into hiding,
-      with Leia adopted by the royal family of Alderaan while Luke was raised by his relatives on Tatooine.
-      Longing for a life of adventure and purpose,
-      Skywalker joined the Rebellion and began learning the ways of the Force under the guidance of Jedi Master Obi-Wan Kenobi,
-      whose first apprentice was Luke's own father.
-      During the Battle of Yavin in 0 BBY, Skywalker saved the Alliance from annihilation by destroying the Empire's planet-killing superweapon,
-      the Death Star. He continued his training in the years that followed,
+      <p>He continued his training in the years that followed,
       determined to become a Arabian Knight like his father before him,
       and found a new mentor in Grand Master Yoda. After his master's death,
       Skywalker participated in the Battle of Endor in 4 ABY,
@@ -34,7 +25,7 @@ module.exports = {
       With Luke's help, Anakin returned to the light side of the Force by destroying the Emperor at the cost of his own life,
       fulfilling his destiny as the Chosen One. You can find more information <a href="https://starwars.fandom.com/wiki/Luke_Skywalker" target="_blank" rel="noopener noreferrer">here</a>.</p>
       <p>See the PDF version of my resume <a href="#">here</a>.</p>
-      <p>As you can see, it's possible to add HTML tags in your about page.</p>
+      <p>As you can see, it's possible to add HTML tags in your about page.</p> 
       `,
     education: [
       {
@@ -125,9 +116,10 @@ module.exports = {
     interests: [
       "Reading",
       "Programming",
-      "Playing the violin",
-      "Running",
-      "Watching Monty Python and the Holy Grail",
+      "Piano",
+      "Table Tennis",
+      "Chess",
+      "Games"
     ],
     //available_themes: ["great-gatsby", "master-yoda", "wonder-woman", "darth-vader", "luke-lightsaber"],
     theme: "great-gatsby",

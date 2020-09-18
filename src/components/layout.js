@@ -11,6 +11,7 @@ const Layout = props => {
     query {
       site {
         siteMetadata {
+          siteUrl
           name
           role
           email
@@ -24,6 +25,8 @@ const Layout = props => {
       }
     }
   `)
+
+console.log(data.site.siteMetadata.email) 
 
   const theme = data.site.siteMetadata.theme || "great-gatsby"
   const font = data.site.siteMetadata.font || "default"
